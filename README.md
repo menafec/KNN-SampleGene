@@ -4,6 +4,10 @@ Este proyecto implementa un clasificador K-Nearest Neighbors (KNN) en Java.
 Permite cargar conjuntos de datos desde archivos CSV, entrenar el modelo y hacer predicciones sobre nuevas instancias. 
 También incluye la capacidad de clasificar puntos aleatorios y evaluar el modelo en un conjunto de prueba.
 
+## Fuente del Dataset Utilizado en el test
+
+https://www.kaggle.com/datasets/alifarajnia/knngene/data
+
 ## Autor
 
 Ximena Carolina Fernandez Cardenas
